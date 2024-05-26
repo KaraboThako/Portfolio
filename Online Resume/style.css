@@ -1,0 +1,13 @@
+#profilepic {
+    width: 200px;    
+    height: 200px;
+}
+
+#space {
+    margin-right: 15px; /* Adds space to the right of each link */
+    text-decoration: none; /* Optional: remove underlines */
+}
+/* Optional: Remove margin from the last link */
+a:last-child {
+    margin-right: 0;
+}
